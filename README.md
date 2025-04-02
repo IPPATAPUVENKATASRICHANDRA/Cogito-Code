@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app_icon.png" alt="App Icon" width="200"/>
+  <img src="app_icon.png" alt="App Icon" width="200"/>
 </p>
 
 # 🌟 Cogito Code: Your AI Coding Assistant 🌟
@@ -128,41 +128,41 @@ Below are some sample outputs from Cogito Code:
       Output 1
     </td>
     <td align="center">
-      <img src="assets/img2.jpg" alt="Sample Output 2" width="250"/><br>
+      <img src="output_image/img2.jpg" alt="Sample Output 2" width="250"/><br>
       Output 2
     </td>
     <td align="center">
-      <img src="assets/img3.jpg" alt="Sample Output 3" width="250"/><br>
+      <img src="output_image/img3.jpg" alt="Sample Output 3" width="250"/><br>
       Output 3
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/img4.jpg" alt="Sample Output 4" width="250"/><br>
+      <img src="output_image/img4.jpg" alt="Sample Output 4" width="250"/><br>
       Output 4
     </td>
     <td align="center">
-      <img src="assets/img5.jpg" alt="Sample Output 5" width="250"/><br>
+      <img src="output_image/img5.jpg" alt="Sample Output 5" width="250"/><br>
       Output 5
     </td>
     <td align="center">
-      <img src="assets/img6.jpg" alt="Sample Output 6" width="250"/><br>
+      <img src="output_image/img6.jpg" alt="Sample Output 6" width="250"/><br>
       Output 6
     </td>
     <td align="center">
-      <img src="assets/img7.jpg" alt="Sample Output 7" width="250"/><br>
+      <img src="output_image/img7.jpg" alt="Sample Output 7" width="250"/><br>
       Output 7
     </td>
     <td align="center">
-      <img src="assets/img8.jpg" alt="Sample Output 8" width="250"/><br>
+      <img src="output_image/img8.jpg" alt="Sample Output 8" width="250"/><br>
       Output 8
     </td>
     <td align="center">
-      <img src="assets/img9.jpg" alt="Sample Output 9" width="250"/><br>
+      <img src="output_image/img9.jpg" alt="Sample Output 9" width="250"/><br>
       Output 9
     </td>
     <td align="center">
-      <img src="assets/img10.jpg" alt="Sample Output 10" width="250"/><br>
+      <img src="output_image/img10.jpg" alt="Sample Output 10" width="250"/><br>
       Output 10
     </td>
   </tr>
