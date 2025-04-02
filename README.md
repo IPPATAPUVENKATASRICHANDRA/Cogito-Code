@@ -135,8 +135,6 @@ Below are some sample outputs from Cogito Code:
       <img src="output_image/img3.jpg" alt="Sample Output 3" width="250"/><br>
       Output 3
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="output_image/img4.jpg" alt="Sample Output 4" width="250"/><br>
       Output 4
@@ -166,5 +164,5 @@ Below are some sample outputs from Cogito Code:
       Output 10
     </td>
   </tr>
-
 </table>
+
