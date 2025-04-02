@@ -131,6 +131,8 @@ Below are some sample outputs from Cogito Code:
       <img src="output_image/img2.jpg" alt="Sample Output 2" width="250"/><br>
       Output 2
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="output_image/img3.jpg" alt="Sample Output 3" width="250"/><br>
       Output 3
@@ -139,6 +141,8 @@ Below are some sample outputs from Cogito Code:
       <img src="output_image/img4.jpg" alt="Sample Output 4" width="250"/><br>
       Output 4
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="output_image/img5.jpg" alt="Sample Output 5" width="250"/><br>
       Output 5
@@ -147,6 +151,8 @@ Below are some sample outputs from Cogito Code:
       <img src="output_image/img6.jpg" alt="Sample Output 6" width="250"/><br>
       Output 6
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="output_image/img7.jpg" alt="Sample Output 7" width="250"/><br>
       Output 7
@@ -155,6 +161,8 @@ Below are some sample outputs from Cogito Code:
       <img src="output_image/img8.jpg" alt="Sample Output 8" width="250"/><br>
       Output 8
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="output_image/img9.jpg" alt="Sample Output 9" width="250"/><br>
       Output 9
