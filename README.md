@@ -22,11 +22,11 @@ Cogito Code is a versatile platform that helps you:
 
 1. **🧠 Code Generation**  
    - Generates optimal and clean code for any programming challenge.
-   - Focuses primarily on Python while adhering to PEP 8 best practices.
+  
 
 2. **📝 Problem Understanding**  
    - Provides detailed breakdowns of programming problems.
-   - Uses advanced natural language processing to interpret problem statements accurately.
+
 
 3. **🧪 Code Testing**  
    - Automatically generates test cases to validate your code.
@@ -42,7 +42,7 @@ Cogito Code is a versatile platform that helps you:
 
 ---
 
-## 👥 Who Will Use This Application?
+## 👥 Who can Use This Application?
 
 - **Programmers and Developers:**  
   Quickly generate and validate code solutions.
@@ -82,8 +82,7 @@ Cogito Code is a versatile platform that helps you:
 - **`colorama` 🎨:** Adds colorful, styled console outputs.
 - **`pyfiglet` 💡:** Generates ASCII art for stylish headers.
 - **`tqdm` 📊:** Displays progress bars for an enhanced user experience.
-- **`httpx` 🌍:** Async HTTP client for smooth networking.
-- **`anyio` ⚡:** Supports asynchronous networking.
+
 
 ### Custom Modules
 - **UI Elements:** Enhances user interactions with formatted outputs.
